@@ -1,0 +1,104 @@
+/* CSS RPG Tsukuru 2k3 */
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+a {
+    color: orange;
+}
+
+article {
+    max-width: 538px;
+    width: 84%;
+    float: left;
+}
+
+footer {
+    max-width: 640px;
+    width: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    color: white;
+    text-align: center;
+    background-color: #653C06;
+    clear: both;
+}
+
+header {
+    max-width: 640px;
+    width: 100%;
+}
+
+/********** Class **********/
+
+.banner {
+    max-width: 640px;
+    width: 100%;
+}
+
+.date {
+    max-width: 640px;
+    width: 100%;
+}
+
+.font_body_background {
+    background-color: darkblue;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+
+.header_title {
+    background-color: #95785C;
+    font-size: 18px;
+    color: white;
+    text-align: center  ;
+}
+
+.table_content {
+    width: 538px;
+    max-width: 99.5%;
+    border: 2px solid darkgoldenrod;
+    
+}
+
+/********** ID **********/
+
+#container {
+    max-width: 640px;
+    width: 100%;
+    margin: 0 auto 0 auto;
+    display: block;
+    background-color: #4D453E;
+}
+
+/********** MENU **********/
+
+.menu {
+    max-width: 100px;
+    width: 15%;
+    float: left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    font-size: 14px;
+    background-color: #315975;
+    border: 1px solid darkgoldenrod;
+}
+
+.menu a {
+    border: 1px solid darkgoldenrod;
+    text-decoration: none;
+    display: block;
+    color: white;
+}
+
+.menu a:hover {
+    background-color: darkblue;
+    transition: all 400ms ease-in-out;
+}
+
+.menu ul {
+    list-style-type: none;
+}

@@ -1,2 +1,2 @@
-<img src="https://i.ibb.co/ySJ9g3s/fairy-website-rpg-tsukuru-2k3.png" alt="Logo SeaFairy Software" width="200px" height="270px" />
+<img src="https://i.ibb.co/C5dXg6H/fairy-website-rpg-tsukuru-2k3.png" alt="Mark SeaFairy Software" width="240px" height="200px" />
 RPG Tsukuru, Tutorials, Pixel Art, Events
